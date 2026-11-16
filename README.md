@@ -8,7 +8,7 @@ A small app that downloads videos as MP4 or audio as MP3 from YouTube and most o
 
 You don't need Python or anything else installed — the app is self-contained.
 
-**Download:** go to the [Releases page](https://github.com/leanbeefsteak-rgb/Media-Downloader-1.0/releases/latest) and pick the file for your computer:
+**Download:** go to the [Releases page](https://github.com/leanbeefsteak-rgb/Media-Downloader/releases/latest) and pick the file for your computer:
 
 | Your computer | File |
 |---|---|
